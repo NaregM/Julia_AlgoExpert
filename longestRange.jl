@@ -56,4 +56,4 @@ end
 
 # Test
 v_test = [1, 11, 3, 0, 12, 13, 15, 16, 14, 18, 19, 20, 15, 5, 2, 4, 10, 7, 12, 6];
-longestRange(v_test)
+println(longestRange(v_test))
